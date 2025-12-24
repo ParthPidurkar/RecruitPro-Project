@@ -1,5 +1,5 @@
-# RecruitPro-Project
+# RecruitPro-Project - Test branch 
+(/dripto-test)
 
-# Branches
-1. /dripto-test
-2. /parth-test
+# STEPS TO FOLLOW
+1. Added frontend and backend 
